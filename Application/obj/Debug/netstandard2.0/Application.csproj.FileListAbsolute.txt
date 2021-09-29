@@ -1,0 +1,4 @@
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache

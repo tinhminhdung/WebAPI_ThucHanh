@@ -1,0 +1,9 @@
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\Database.deps.json
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\Database.dll
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\Database.pdb
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\Database.AssemblyInfoInputs.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\Database.AssemblyInfo.cs
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\Database.dll
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\Database.pdb
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\Database.csprojAssemblyReference.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\Database.csproj.CoreCompileInputs.cache

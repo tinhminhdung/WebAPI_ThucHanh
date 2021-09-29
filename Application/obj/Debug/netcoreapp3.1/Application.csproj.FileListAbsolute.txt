@@ -1,0 +1,38 @@
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.dll
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.pdb
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\AppDatabase.dll
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\AppDatabase.pdb
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.dll
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\AppDatabase.dll
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\AppDatabase.pdb
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.pdb
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.dll
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\Application.pdb
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\AppDatabase.dll
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\bin\Debug\netcoreapp3.1\AppDatabase.pdb
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.dll
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.pdb
+F:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.dll
+F:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Application\obj\Debug\netcoreapp3.1\Application.pdb

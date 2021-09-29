@@ -1,0 +1,29 @@
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.deps.json
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.dll
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.pdb
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.csprojAssemblyReference.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.AssemblyInfoInputs.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.AssemblyInfo.cs
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.csproj.CoreCompileInputs.cache
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.dll
+H:\MVC\APINetCore_ThucHanh\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.pdb
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.deps.json
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.dll
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.pdb
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.csprojAssemblyReference.cache
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.AssemblyInfoInputs.cache
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.AssemblyInfo.cs
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.dll
+C:\Users\Dung\Desktop\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.pdb
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.deps.json
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.dll
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\bin\Debug\netstandard2.0\AppDatabase.pdb
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.csprojAssemblyReference.cache
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.AssemblyInfoInputs.cache
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.AssemblyInfo.cs
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.csproj.CoreCompileInputs.cache
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.dll
+H:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.pdb
+F:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.dll
+F:\Code_Phat_Trien_Chuan\ASP.NET Core 3.1_WebAPI_Web_HayNhat\WebAPI_ThucHanh\Database\obj\Debug\netstandard2.0\AppDatabase.pdb

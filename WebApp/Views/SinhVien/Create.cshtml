@@ -1,0 +1,15 @@
+﻿@model Application.MSinhVien.SinhVienViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index Create</h1>
+
+<form asp-controller="SinhVien" asp-action="Create" method="post">
+    Name:  <input asp-for="name" /> <br />
+    Address: <input asp-for="address" /><br />
+    <button type="submit">Create</button>
+</form>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
